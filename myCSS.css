@@ -6,7 +6,7 @@ body {
 
 }
 .homePage {
-	background: #87BFFF;
+	background:#80FFED ;
 }
 .container {
 	width: 960px;
@@ -32,7 +32,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #80FFED;
+	background: #87BFFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
